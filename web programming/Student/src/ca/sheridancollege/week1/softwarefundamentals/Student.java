@@ -13,7 +13,7 @@ public class Student {
 
     private int ID;
     private String email;
-
+private String one;
     /**
     private String one;
      *
@@ -34,7 +34,7 @@ public class Student {
     public void setOne(String one) {
         this.one = one;
     }
-
+/**
      * Get the value of email
      *
      * @return the value of email
