@@ -15,6 +15,26 @@ public class Student {
     private String email;
 
     /**
+    private String one;
+     *
+     * /**
+     * Get the value of one
+     *
+     * @return the value of one
+     */
+    public String getOne() {
+        return one;
+    }
+
+    /**
+     * Set the value of one
+     *
+     * @param one new value of one
+     */
+    public void setOne(String one) {
+        this.one = one;
+    }
+
      * Get the value of email
      *
      * @return the value of email
